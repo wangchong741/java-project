@@ -1,0 +1,8 @@
+/all
+/**/target/
+/.idea/
+.svn
+.classpath
+.project
+*.iml
+*.log
